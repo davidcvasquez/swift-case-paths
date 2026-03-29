@@ -1,9 +1,13 @@
 # 🧰 CasePaths
 
 [![Swift](https://github.com/davidcvasquez/swift-case-paths/actions/workflows/swift.yml/badge.svg)](https://github.com/davidcvasquez/swift-case-paths/actions/workflows/swift.yml)
+[![codecov](https://codecov.io/gh/davidcvasquez/swift-case-paths/graph/badge.svg?token=GOHW11DK53)](https://codecov.io/gh/davidcvasquez/swift-case-paths)
 [![Slack](https://img.shields.io/badge/slack-chat-informational.svg?label=Slack&logo=slack)](http://pointfree.co/slack-invite)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpointfreeco%2Fswift-case-paths%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/pointfreeco/swift-case-paths)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpointfreeco%2Fswift-case-paths%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/pointfreeco/swift-case-paths)
+![iOS](https://img.shields.io/badge/iOS-13.0+-blue.svg)
+![iPadOS](https://img.shields.io/badge/iPadOS-13.0+-blue.svg)
+![macOS](https://img.shields.io/badge/macOS-10.15+-blue.svg)
+![Language](https://img.shields.io/badge/Language-Swift%206.3-orange.svg)
+[![GitHub License](https://img.shields.io/github/license/davidcvasquez/swift-case-paths?color=353535)](https://github.com/davidcvasquez/swift-case-paths/blob/main/LICENSE.txt)
 
 Case paths extends the key path hierarchy to enum cases.
 
